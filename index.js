@@ -1,1 +1,1 @@
-alert("hi");
+prompt("enter password to continue");
